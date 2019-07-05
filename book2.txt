@@ -1,0 +1,5 @@
+	Command bash example
+	- mkdir (tworzy katalog)
+	- cd (wchodzi do katalogu)
+	- touch (tworzy plik)
+	
